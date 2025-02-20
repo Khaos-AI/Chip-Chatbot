@@ -1,0 +1,12 @@
+bot:
+  name: "Chip"
+  version: "1.0.0"
+  
+responses:
+  max_length: 500
+  include_emoji: true
+  
+personality:
+  humor_level: 0.8
+  friendliness: 0.9
+  mystery_factor: 0.7
