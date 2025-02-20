@@ -37,7 +37,7 @@ docker-compose up
 
 ### Manual Setup
 
-\`\`\`bash
+```bash
 # Create virtual environment
 make setup
 
@@ -46,30 +46,30 @@ make install
 
 # Run the application
 make run
-\`\`\`
+```
 
 ## 📖 Documentation
 
 ### API Endpoints
 
-\`\`\`bash
+```bash
 POST /api/v1/chat
 GET /api/v1/characters
 GET /api/v1/story
-\`\`\`
+```
 
 ### CLI Usage
 
-\`\`\`bash
+```bash
 # Start chat session
 khaos-chip chat --user-id YOUR_ID
-\`\`\`
+```
 
 ## 🛠️ Development
 
 ### Project Structure
 
-\`\`\`
+```
 khaos-chip/
 ├── src/
 │   ├── api/          # FastAPI routes
@@ -84,29 +84,29 @@ khaos-chip/
 ├── tests/            # Test suite
 ├── config/           # Configuration files
 └── docs/             # Documentation
-\`\`\`
+```
 
 ### Running Tests
 
-\`\`\`bash
+```bash
 make test
-\`\`\`
+```
 
 ### Code Quality
 
-\`\`\`bash
+```bash
 make lint
-\`\`\`
+```
 
 ## 🔧 Configuration
 
 Copy \`.env.example\` to \`.env\` and configure:
 
-\`\`\`env
+```env
 MONGODB_URL=mongodb://localhost:27017
 REDIS_HOST=localhost
 MISTRAL_API_KEY=your_key_here
-\`\`\`
+```
 
 ## 🤝 Contributing
 
