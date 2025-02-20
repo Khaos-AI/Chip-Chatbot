@@ -153,9 +153,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- GitHub: [@yourusername](https://github.com/khaos)
+- GitHub: [@Khaos](https://github.com/khaos)
 - Email: john@khaos.gg
-- Twitter: [@yourhandle](https://twitter.com/khaos)
+- Twitter: [@Khaos](https://twitter.com/khaos)
 
 ## 📊 Stats
 
