@@ -26,14 +26,14 @@ Chip is an advanced AI assistant powered by Mistral-7B, designed to guide users 
 
 ### Using Docker
 
-\`\`\`bash
+```bash
 # Clone the repository
 git clone https://github.com/yourusername/khaos-chip.git
 cd khaos-chip
 
 # Start services
 docker-compose up
-\`\`\`
+```
 
 ### Manual Setup
 
