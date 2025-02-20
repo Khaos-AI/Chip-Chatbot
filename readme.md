@@ -6,7 +6,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.68+-green.svg)
 
 <p align="center">
-  <img src="docs/assets/chip-logo.png" alt="Chip Logo" width="200"/>
+  <img src="https://images-ext-1.discordapp.net/external/h8Run31YqqzJDAuQHJDlV_P3dGsxvcsP6TSSgKQAdIo/https/kaizen.magnimont.com/Kyomu_Logo-03.png?format=webp&quality=lossless&width=671&height=671" alt="Chip Logo" width="200"/>
 </p>
 
 Chip is an advanced AI assistant powered by Mistral-7B, designed to guide users through the rich narrative world of Project Khaos. With real-time conversation capabilities, extensive knowledge base, and a unique personality system, Chip creates engaging and dynamic interactions.
